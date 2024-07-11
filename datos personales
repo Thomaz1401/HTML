@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>datos personales</title>
+    </head>
+    <body>
+        <h1>nombre: Thomas</h1>
+        <h2>apellidos: Gutierrez Diaz</h2>
+        <h3>edad: 17 años</h3>
+    </body>
+</html>
